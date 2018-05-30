@@ -36,7 +36,6 @@ class ResultsViewController: UIViewController {
         metricsCollectionView.delegate = self
         metricsCollectionView.dataSource = self
         
-        
         technicalDebtCostLabel.animateToNumberPounds(results[0], duration: 1)
         technicalDebtVariableLabel.animateToNumberPoundsPlus(results[1], duration: 2)
     }

@@ -38,7 +38,7 @@ let resultSections = [
         "arrowImage" : UIImage.init(named: "arrowDown")!,
         "metricGain" : "0.5%",
         "metricColor" : UIColor(red:0.99, green:0.29, blue:0.36, alpha:1.00),
-        "metricCost" : "53"
+        "metricCost" : "£53"
     ],
     [
         "metricType" : "Bugs",

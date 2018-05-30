@@ -172,7 +172,6 @@ class SignInViewController: UIViewController , WKNavigationDelegate {
     
     @IBAction func signInTapped(_ sender: Any) {
         loadGitHubSignIn()
-        
     }
 }
 
